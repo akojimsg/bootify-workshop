@@ -1,9 +1,9 @@
 ## bootify-workshop
 
-  -[x] Demo fast approach to create CRUD app
-  -[x] Postgres database connection with test containers
-  -[x] Docker-compose integration
-  -[x] Init spring project with spring CLI 
+    -[x] Demo fast approach to create CRUD app
+    -[x] Postgres database connection with test containers
+    -[x] Docker-compose integration
+    -[x] Init spring project with spring CLI 
 
 ### links
 
