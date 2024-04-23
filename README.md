@@ -13,13 +13,13 @@
 
 **Using Gradle**
     
-    gradle client:bootBuildImage # build client image
-    gradle service:bootBuildImage # build service image
+    gradle client:bootBuildImage #build client image
+    gradle service:bootBuildImage #build service image
 
 **Using native compile**
 
-     gradle client:nativeCompile # client
-     gradle service:nativeCompile # service
+     gradle client:nativeCompile #client
+     gradle service:nativeCompile #service
 
 ### Environment variables
 
