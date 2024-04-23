@@ -1,5 +1,4 @@
-![img.png](service/img.png)
-## bootify-workshop
+## Spring io 2023 Hands-on (Bootiful)
 
     -[x] Demo fast approach to create CRUD app
     -[x] Postgres database connection with test containers
