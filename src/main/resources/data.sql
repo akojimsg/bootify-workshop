@@ -1,3 +1,4 @@
+delete from customer;
 insert into customer (name) values ('Kiera Wuckert');
 insert into customer (name) values ('Melvin Pfannerstill');
 insert into customer (name) values ('Madelynn Klein');
