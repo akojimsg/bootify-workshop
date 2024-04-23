@@ -18,6 +18,16 @@
 
 **Using native compile**
 
+### Environment variables
+
+    POSTGRES_USER=bp
+    POSTGRES_DB=bp
+    POSTGRES_PASSWORD=bp
+
+    SPRING_DATASOURCE_URL=jdbc:postgresql://localhost:5432/bp
+    SPRING_DATASOURCE_USERNAME=bp
+    SPRING_DATASOURCE_PASSWORD=bp
+
 ### links
 
 1. [Spring I/O 2023 - Keynote](https://www.youtube.com/watch?v=IgmeFeTU1a4)
