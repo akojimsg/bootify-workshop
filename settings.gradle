@@ -1,3 +1,4 @@
 rootProject.name = 'bootify'
 
+include 'client'
 include 'service'

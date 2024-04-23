@@ -1,4 +1,4 @@
-![img.png](img.png)
+![img.png](service/img.png)
 ## bootify-workshop
 
     -[x] Demo fast approach to create CRUD app
